@@ -29,9 +29,3 @@ This is a simple Flutter application that demonstrates state management using `S
   - `changeBgColor()`: Toggles the background color between white and blue-grey
 - The UI consists of an `AppBar`, a `Column` with a `Text` widget, and three `ElevatedButton` widgets.
 
-## Screenshots
-(Include screenshots here if needed)
-
-## License
-This project is open-source and free to use.
-
